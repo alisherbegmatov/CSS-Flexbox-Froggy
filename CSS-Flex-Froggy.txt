@@ -1,0 +1,52 @@
+CSS Flex Froggy # https://flexboxfroggy.com #
+
+Level 01.
+Solution: justify-content: flex-end;
+Level 02.
+Solution: justify-content: center;
+Level 03.
+Solution: justify-content: space-around;
+Level 04.
+Solution: justify-content: space-between;
+Level 05.
+Solution: align-items: flex-end;
+Level 06.
+Solution: align-items: center; justify-content: center;
+Level 07.
+Solution: justify-content: space-around; align-items: flex-end;
+Level 08.
+Solution: flex-direction: row-reverse;
+Level 09.
+Solution: flex-direction: column;
+Level 10.
+Solution: flex-direction: row-reverse; justify-content: flex-end;
+Level 11.
+Solution: flex-direction: column; justify-content: flex-end;
+Level 12.
+Solution: flex-direction: column-reverse; justify-content: space-between;
+Level 13.
+Solution: flex-direction: row-reverse; justify-content: center; align-items: flex-end;
+Level 14.
+Solution: order: 1;
+Level 15.
+Solution: order: -3;
+Level 16.
+Solution: align-self: flex-end;
+Level 17.
+Solution: align-self: flex-end; order: 1;
+Level 18.
+Solution: flex-wrap: wrap;
+Level 19.
+Solution: flex-direction: column; flex-wrap: wrap;
+Level 20.
+Solution: flex-flow: column wrap;
+Level 21.
+Solution: align-content: flex-start;
+Level 22.
+Solution: align-content: flex-end;
+Level 23.
+Solution: flex-direction: column-reverse; align-content: center;
+Level 24.
+Solution: flex-flow:column-reverse wrap-reverse; justify-content:center; align-content:space-between;
+
+ALISHER BEGMATOV
