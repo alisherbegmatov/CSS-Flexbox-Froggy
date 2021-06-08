@@ -1,4 +1,4 @@
-CSS Flex Froggy # https://flexboxfroggy.com #
+CSS Flexbox Froggy # https://flexboxfroggy.com #
 
 Level 01.
 Solution: justify-content: flex-end;
